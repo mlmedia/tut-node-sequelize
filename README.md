@@ -1,5 +1,8 @@
 #  Tutorial for NodeJS using Sequelize
-Tutorial for NodeJS and Sequelize found here: [https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api](https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api)
+Tutorial for NodeJS and Sequelize.
+
+## Reference 
+- [https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api](https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api)
 
 
 ## NOTE
